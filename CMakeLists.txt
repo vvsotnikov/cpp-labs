@@ -4,6 +4,7 @@ project(Lab6)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(kinsfolk-child1 kinsfolk-child1.cpp)
+add_executable(kinsfolk-parent1 kinsfolk-parent1.cpp)
 add_executable(kill1 kill1.cpp)
 add_executable(kill2 kill2.cpp)
 add_executable(sigaction1 sigaction1.cpp)
